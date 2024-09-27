@@ -1,8 +1,6 @@
 package com.example.demo.appuser;
 
-import java.util.Collection;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 import jakarta.persistence.*;
 import lombok.EqualsAndHashCode;
